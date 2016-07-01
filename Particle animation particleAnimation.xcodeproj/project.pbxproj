@@ -12,6 +12,7 @@
 		D0DEA93C1D269B2B003B4F19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0DEA93A1D269B2B003B4F19 /* Main.storyboard */; };
 		D0DEA93E1D269B2B003B4F19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0DEA93D1D269B2B003B4F19 /* Assets.xcassets */; };
 		D0DEA9411D269B2B003B4F19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0DEA93F1D269B2B003B4F19 /* LaunchScreen.storyboard */; };
+		D0DEA9491D269B94003B4F19 /* pin_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D0DEA9481D269B94003B4F19 /* pin_red@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D0DEA93D1D269B2B003B4F19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0DEA9401D269B2B003B4F19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0DEA9421D269B2B003B4F19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0DEA9481D269B94003B4F19 /* pin_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pin_red@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		D0DEA9351D269B2A003B4F19 /* Particle animation particleAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				D0DEA9481D269B94003B4F19 /* pin_red@2x.png */,
 				D0DEA9361D269B2A003B4F19 /* AppDelegate.swift */,
 				D0DEA9381D269B2A003B4F19 /* ViewController.swift */,
 				D0DEA93A1D269B2B003B4F19 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0DEA9491D269B94003B4F19 /* pin_red@2x.png in Resources */,
 				D0DEA9411D269B2B003B4F19 /* LaunchScreen.storyboard in Resources */,
 				D0DEA93E1D269B2B003B4F19 /* Assets.xcassets in Resources */,
 				D0DEA93C1D269B2B003B4F19 /* Main.storyboard in Resources */,
